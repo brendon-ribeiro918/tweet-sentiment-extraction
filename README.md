@@ -1,11 +1,7 @@
 # Tweet-Sentiment-Extraction
-project1- Tweet Sentiment Extraction
 
-My ridiculous dog is amazing." [sentiment: positive]
+My incredible dog is wonderful."
 
-With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person's, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description? 
+With the constant stream of tweets, it can be challenging to determine whether the sentiment behind a specific tweet will positively impact a company or individual’s brand by going viral or harm profits due to a negative tone. Capturing sentiment in language is crucial in an era where decisions and reactions are made in seconds. But which words actually convey sentiment?
 
-In this project i will be working with what words in tweets support a positive, negative, or neutral sentiment? 
-
-OBJECTIVE: Your objective is to construct a model that can do the same - look at the labeled sentiment for a given tweet and figure out what word or phrase best supports it.
-https://www.kaggle.com/c/tweet-sentiment-extraction/overview
+In this project, I will analyze which words in tweets contribute to a positive, negative, or neutral sentiment.
